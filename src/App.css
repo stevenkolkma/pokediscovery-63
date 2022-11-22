@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  font-family: monospace;
+}
+
+.AppNav {
+  background-color: lightgrey;
+  font-size: small;
+  padding: 10px;
+}
+
+.NavElement.active {
+  font-weight: bold;
+}
